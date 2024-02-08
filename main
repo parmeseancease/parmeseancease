@@ -70,14 +70,11 @@ var realEntries = realRawAssets [mount] = {};
 
 for (var id in entries) {
 
-23
 
 var entry = entries[id];
 
-24
 
 var type entry[1];
 
-25
 
 // retrieve minified raw asset
